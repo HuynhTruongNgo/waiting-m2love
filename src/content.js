@@ -1,5 +1,5 @@
 export default [
-  "M2Love",
+  "Huynh Truong",
   "I adore you",
   "I’m affectionate for you",
   "I’m attached to you",
